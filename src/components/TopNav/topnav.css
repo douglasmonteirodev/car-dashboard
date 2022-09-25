@@ -1,7 +1,7 @@
 .top__nav {
   position: fixed;
   top: 0;
-  left: calc(260px + 10px);
+  left: 260px;
   z-index: 999;
   background: var(--primary-color);
   width: calc(100% - 260px);

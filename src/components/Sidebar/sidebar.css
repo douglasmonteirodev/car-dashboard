@@ -41,7 +41,7 @@
   justify-content: space-between;
   flex-direction: column;
   height: calc(100% - 5%);
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 .menu {
@@ -66,7 +66,7 @@
 
 .nav__list {
   display: flex;
-  row-gap: 1.3rem;
+  row-gap: 2rem;
   flex-direction: column;
   color: var(--small-text-color);
 }
