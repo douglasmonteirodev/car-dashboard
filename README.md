@@ -2,7 +2,7 @@
 
 ## <i>Projeto feito com React JS </i>
 
-## Link: https://douglasmonteirodev.github.io/builds/car-dasboard/
+## Link: https://douglasmonteirodev.github.io/builds/car-dashboard/
 
 <p align="center">
       <img src="src/assets/preview/home_preview.png">
